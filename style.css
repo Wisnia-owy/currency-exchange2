@@ -12,6 +12,7 @@ html{
     padding: 10px 20px ;
     border: 8px double; color: green;
     border-radius: 20px;
+    background-image: url("./Images/backg.jpg");
 }
 
 .footer{
