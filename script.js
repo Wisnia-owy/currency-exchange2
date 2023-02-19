@@ -3,10 +3,7 @@
     
     const calculateResult = (amount,currency) => {
    
-        const rateGBP = 5.23;
-        const rateEUR = 4.75;
-        const rateUSD = 4.20;
-        const rateBTC = 74.043;
+       
         
         switch (currency) {
             case "GBP":
